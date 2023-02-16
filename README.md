@@ -1,2 +1,1 @@
-# HeartDisease
-predict whether heart have disease or not
+dataset: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
